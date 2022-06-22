@@ -1,6 +1,6 @@
 ## Olá eu sou o Renan Bento
 
--🔭 Hoje trabalho com Pesquisa em Física mas estou migrando para Data Science
+-🔭M.Sc in Physics | Machine Learning | Data Scientist | Python | SQL | Excel
 
 -🌱 Estudando Machine learn e Data Sciece
 
